@@ -1,0 +1,6 @@
+---
+**Kathrin Ganz** ist wissenschaftliche Mitarbeiterin am Margherita-von-Brentano-Zentrum der Freien Universität Berlin. Sie arbeitet im BMBF-Projekt „Open Gender Platform” und ist Gründungsredakteurin des Open Gender Journals. Zuvor promovierte sie zum politischen Diskurs des netzpolitischen Aktivismus an der Technischen Universität Hamburg. <https://orcid.org/0000-0003-3968-3470>
+
+**Marcel Wrzesinski** ist Open-Access-Officer am Alexander von Humboldt Institut für Internet und Gesellschaft und wissenschaftlicher Mitarbeiter im DFG-Projekt „InnOAccess“. Zuvor betreute er als Fachredakteur die Open-Access-Aktivitäten am International Graduate Centre for the Study of Culture (Gießen) und war wissenschaftlicher Mitarbeiter in einem BMBF-Projekt zur Open-Access-Transformation in der Geschlechterforschung. Er ist zudem Mitgründer des Open Gender Journal. <https://orcid.org/0000-0002-2343-7905>
+
+**Markus Rauchecker** ist Postdoc am Lateinamerika-Institut der Freien Universität Berlin. Er ist wissenschaftlicher Mitarbeiter im BMBF-Projekt „Integrative Biodiversitätsforschung in der kolumbianischen Karibik“ (ColCari) und Gründungsredakteur von CROLAR -- Critical Reviews on Latin American Research. Kontakt: markus.rauchecker@fu-berlin.de
