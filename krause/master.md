@@ -158,7 +158,7 @@ ebenfalls, dass BAK, DGI, dbv und BIB ruhig noch aktiver werden könnten.
 Rainer Kuhlen, ehemaliger Professor für Informationswissenschaft an der
 Universität Konstanz, forderte Informationswissenschaftlerinnen und
 Informationswissenschaftler auf, mehr zu publizieren. Helmut Voigt,
-früherer Fachreferent an der HU Berlin und Mitglied im BAK-Vorstand,
+früherer Fachreferent an der Universitätsbibliothek der HU Berlin und Mitglied im BAK-Vorstand,
 wandte dagegen ein, dass das Publizieren für Informationswissenschaftler
 schwierig sei, da es sich bei der Informationswissenschaft, wie bei der
 Statistik, eher um eine Methodenwissenschaft handele.
