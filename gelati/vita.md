@@ -1,0 +1,10 @@
+---
+
+**Francesco Gelati** (1987) erwarb die Master-Abschlüsse Linguistik an der
+Universität Ca' Foscari Venedig und Geschichte an der Universität
+Straßburg. Auch besuchte er die Schule für Archivwissenschaft des
+Staatsarchivs zu Venedig. Von 2017 bis 2019 arbeitete er beim Belgischen
+Staatsarchiv als Datenimportmanager und ist seit 2019 Archivar am
+Institut für Zeitgeschichte München - Berlin. Er interessiert sich für
+digitale archivalische Standards, Linked Data und
+Forschungsdatenmanagement. ORCID ID: <https://orcid.org/0000-0002-6066-1308>

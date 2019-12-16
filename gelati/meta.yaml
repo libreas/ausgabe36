@@ -1,0 +1,27 @@
+---
+
+layout: page
+lang: "de"
+journal: "LIBREAS. Library Ideas"
+issue: "36"
+year: "2019"
+contributor:
+ - "Francesco Gelati"
+orcid: 
+ - orcid: "0000-0002-6066-1308"
+   name: "Francesco Gelati"
+title: "Die nachhaltige Bewahrung einer Forschungsdatenbank durch Linked Data. Laut welchem Vokabular?"
+date: 2019-12-09
+abstract: "Linked Data bietet die Möglichkeit nicht nur normkonforme Datensätze zur
+Verfügung zu stellen sonder auch nachhaltig und langfristig Metadaten zu
+bewahren, wenn diese zu Linked Data Vokabularen verknüpft sind. Aber
+welches Vokabular soll man nutzen? Der Anwendungsfall einer
+Forschungsdatenbank des Instituts für Zeitgeschichte München - Berlin
+zeigt die Vorteile, Wikidata für die Erstellung von
+Linked-Data-Beständen zu benutzen und Wikidata/DBpedia als
+Backup-Vokabular zu verwenden."
+comments: false
+sharing: true
+footer: true
+
+---
