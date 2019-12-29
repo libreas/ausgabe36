@@ -379,7 +379,7 @@ sichern.
 -   ZBW -- Leibniz-Informationszentrum Wirtschaft
 
 [^1]: DSpace-Installationen in Deutschland siehe
-    <https://duraspace.org/registry/?gv\_search=&filter\_10=DSpace&filter\_4\_6=Germany&filter\_3=&filter\_20=&filter\_28=&mode=all>.
+    <https://duraspace.org/registry/?gv_search=&filter_10=DSpace&filter_4_6=Germany&filter_3=&filter_20=&filter_28=&mode=all>.
 
 [^2]: Herb, U. (2018). Zwangsehen und Bastarde : Wohin steuert Big Data
     die Wissenschaft? In: Information -- Wissenschaft & Praxis, 69(2-3),
